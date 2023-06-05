@@ -1,0 +1,8 @@
+com\mailservice\MailService.class
+com\config\MailConfig.class
+com\mailservice\OtpMailService.class
+com\controllers\MailController.class
+com\mailservice\OtpMailService$1.class
+com\models\MailOtpModel.class
+com\models\PasswordModel.class
+com\hashGenerate\HashGenertaor.class
